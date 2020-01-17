@@ -5,8 +5,13 @@ Hello and welcome to this blog.
   * image features
     - lower level feature extraction 
     - higher level feature
-      - line/ellipse fitting in image
+     - line/ellipse fitting in image
   * image denoising
+  * image registration 
+    - directly intensity based method
+    - feature based registration
+    - phase correlation
+    - subpixel registration
   * image segmentation 
     - local/global threshold
     - level set
@@ -21,6 +26,7 @@ Hello and welcome to this blog.
     - hand crafted feature extraction
     - feature selection 
     - traditional classifier
+  - ocr
   - siamese and triplet network
 * linux
 * c/c++
