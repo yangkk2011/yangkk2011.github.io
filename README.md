@@ -1,2 +1,2 @@
 # yangkk.github.io
-YANG-Kangkang's blog.
+yangkk's blog.
