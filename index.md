@@ -29,6 +29,10 @@ Hello and welcome to this blog.
   - ocr
   - siamese and triplet network
 * linux
+ - ipc
+   - sharing memory
+   - memory map
+ - socket
 * c/c++
   - design pattern
 * misc
