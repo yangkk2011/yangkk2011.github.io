@@ -1,9 +1,9 @@
 baseURL = "http://yangkk2011.github.io/"
 languageCode = "en-us"
-title = "Personal Blog"
+title = "YNAG Kangkang"
 
 pluralizelisttitles = false
-staticDir = ["site", "resources", "redirects"]
+staticDir = ["site", "media", "redirects"]
 
 disableKinds = ["taxonomyTerm"]
 
