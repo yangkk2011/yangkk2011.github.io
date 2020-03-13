@@ -1,0 +1,16 @@
+baseURL = "http://yangkk2011.github.io/"
+languageCode = "en-us"
+title = "Personal Blog"
+
+pluralizelisttitles = false
+staticDir = ["site", "resources", "redirects"]
+
+disableKinds = ["taxonomyTerm"]
+
+paginate = 20
+
+[taxonomies]
+  tag = "tags"
+
+[Params]
+  author = "YANG Kangkang"
